@@ -937,3 +937,81 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.17-12.42.37:368][432]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
 [2022.11.17-12.42.37:374][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
 [2022.11.17-12.42.37:391][433]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.11.17-12.43.07:057][211]LogViewport: Scene viewport resized to 380x185, mode Windowed.
+[2022.11.17-12.43.07:799][227]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2022.11.17-12.43.39:256][318]BlueprintLog: New page: Compile PlayerSideScrollCharacter
+[2022.11.17-12.43.39:391][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.11.17-12.43.39:629][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PlayerSideScrollCharacter" FILE="../../../../../../Users/pawel/Documents/UnrealEngine/ZGTK/Content/Blueprints/PlayerSideScrollCharacter.uasset" SILENT=true
+[2022.11.17-12.43.39:668][323]LogSavePackage: Moving output files for package: /Game/Blueprints/PlayerSideScrollCharacter
+[2022.11.17-12.43.39:669][323]LogSavePackage: Moving '../../../../../../Users/pawel/Documents/UnrealEngine/ZGTK/Saved/PlayerSideScrollCharacter606E71034EE590F4C6AF978DED0941A6.tmp' to '../../../../../../Users/pawel/Documents/UnrealEngine/ZGTK/Content/Blueprints/PlayerSideScrollCharacter.uasset'
+[2022.11.17-12.43.39:685][323]AssetCheck: New page: Asset Save: PlayerSideScrollCharacter
+[2022.11.17-12.43.39:685][323]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/PlayerSideScrollCharacter.PlayerSideScrollCharacter
+[2022.11.17-12.43.39:914][346]LogViewport: Scene viewport resized to 380x185, mode Windowed.
+[2022.11.17-12.43.40:545][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.11.17-12.43.40:765][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SideScrollTest" FILE="../../../../../../Users/pawel/Documents/UnrealEngine/ZGTK/Content/Maps/SideScrollTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.17-12.43.40:796][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.11.17-12.43.40:805][350]LogSavePackage: Moving output files for package: /Game/Maps/SideScrollTest
+[2022.11.17-12.43.40:806][350]LogSavePackage: Moving '../../../../../../Users/pawel/Documents/UnrealEngine/ZGTK/Saved/SideScrollTest7AB77D6940B9D374F242378D1C879803.tmp' to '../../../../../../Users/pawel/Documents/UnrealEngine/ZGTK/Content/Maps/SideScrollTest.umap'
+[2022.11.17-12.43.40:814][350]LogFileHelpers: Saving map 'SideScrollTest' took 0.049
+[2022.11.17-12.43.40:827][350]AssetCheck: New page: Asset Save: SideScrollTest
+[2022.11.17-12.43.40:827][350]LogContentValidation: Display: Validating World /Game/Maps/SideScrollTest.SideScrollTest
+[2022.11.17-12.43.50:181][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/SideScrollTest" FILE="../../../../../../Users/pawel/Documents/UnrealEngine/ZGTK/Content/Maps/SideScrollTest.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.11.17-12.43.50:212][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.11.17-12.43.50:222][670]LogSavePackage: Moving output files for package: /Game/Maps/SideScrollTest
+[2022.11.17-12.43.50:222][670]LogSavePackage: Moving '../../../../../../Users/pawel/Documents/UnrealEngine/ZGTK/Saved/SideScrollTestBA3C91434881C1EDB46FE688AAEF6B50.tmp' to '../../../../../../Users/pawel/Documents/UnrealEngine/ZGTK/Content/Maps/SideScrollTest.umap'
+[2022.11.17-12.43.50:243][670]AssetCheck: New page: Asset Save: SideScrollTest
+[2022.11.17-12.43.50:244][670]LogContentValidation: Display: Validating World /Game/Maps/SideScrollTest.SideScrollTest
+[2022.11.17-12.43.51:224][709]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.17-12.43.51:239][709]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.17-12.43.51:239][709]PIE: New page: PIE session: SideScrollTest (Nov 17, 2022, 2:43:51 PM)
+[2022.11.17-12.43.51:239][709]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SideScrollTest
+[2022.11.17-12.43.51:241][709]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002388s)
+[2022.11.17-12.43.51:241][709]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SideScrollTest.SideScrollTest to /Game/Maps/UEDPIE_0_SideScrollTest.SideScrollTest (0.002487s)
+[2022.11.17-12.43.51:242][709]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.17-12.43.51:242][709]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.17-12.43.51:242][709]LogAIModule: Creating AISystem for world SideScrollTest
+[2022.11.17-12.43.51:242][709]LogPlayLevel: PIE: World Init took: (0.000892s)
+[2022.11.17-12.43.51:278][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.11.17-12.43.51:280][709]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.11.17-12.43.51:280][709]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.17-12.43.51:280][709]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.17-12.43.51:280][709]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.17-12.43.51:280][709]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.17-12.43.51:280][709]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.17-12.43.51:280][709]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.17-12.43.51:280][709]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.17-12.43.51:280][709]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.17-12.43.51:281][709]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.17-12.43.51:281][709]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.17-12.43.51:281][709]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.17-12.43.51:284][709]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.17-12.43.51:316][709]LogAudioMixer: Display: Using Audio Hardware Device Głośniki (Realtek(R) Audio)
+[2022.11.17-12.43.51:316][709]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.17-12.43.51:316][709]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.17-12.43.51:316][709]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.17-12.43.51:318][709]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.11.17-12.43.51:318][709]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2022.11.17-12.43.51:320][709]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.11.17-12.43.51:320][709]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.11.17-12.43.51:320][709]LogInit: FAudioDevice initialized.
+[2022.11.17-12.43.51:320][709]LogAudio: Display: Audio Device (ID: 4) registered with world 'SideScrollTest'.
+[2022.11.17-12.43.51:335][709]LogLoad: Game class is 'GameModeBase'
+[2022.11.17-12.43.51:336][709]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SideScrollTest.SideScrollTest up for play (max tick rate 0) at 2022.11.17-13.43.51
+[2022.11.17-12.43.51:336][709]LogWorld: Bringing up level for play took: 0.000863
+[2022.11.17-12.43.51:338][709]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2022.11.17-12.43.51:339][709]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> LockAlways
+[2022.11.17-12.43.51:339][709]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2022.11.17-12.43.51:339][709]PIE: Server logged in
+[2022.11.17-12.43.51:340][709]PIE: Play in editor total start time 0.11 seconds.
+[2022.11.17-12.43.56:320][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.17-12.43.56:320][869]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SideScrollTest
+[2022.11.17-12.43.56:320][869]LogWorld: UWorld::CleanupWorld for SideScrollTest, bSessionEnded=true, bCleanupResources=true
+[2022.11.17-12.43.56:320][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.17-12.43.56:348][869]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.17-12.43.56:352][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.17-12.43.56:382][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.17-12.43.56:382][869]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.11.17-12.43.56:383][869]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.11.17-12.43.56:390][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.11.17-12.43.56:453][870]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.11.17-12.43.56:457][870]LogViewport: Scene viewport resized to 380x185, mode Windowed.
