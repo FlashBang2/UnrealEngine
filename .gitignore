@@ -72,3 +72,6 @@ Build/*
 
 # Cache files for the editor to use
 */DerivedDataCache/**/*
+
+# Build version
+KWSG/Windows/*
